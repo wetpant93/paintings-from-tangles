@@ -1,0 +1,129 @@
+tangle_id=0 and i=0
+
+You are an artist from the 19th century. Create a painting of a Historical Scene.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=1 and i=0
+
+
+You are an artist from the 19th century. Create a painting of a Landscape, ensure that the primary subject of the painting is not a Historical Scene.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=2 and i=0
+
+
+You are an artist from the 19th century. Create a painting where the primary subject of the painting is Genre, and the primary subject of the painting is not a Historical Scene, and the primary subject of the painting is not a Landscape.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=3 and i=0
+
+You are an artist from the 19th century. Create a painting of a Portrait with realistic and detailed portrayals of people or objects, and the primary subject of the painting is not a Historical Scene, and the primary subject of the painting is not a Landscape, and the primary subject of the painting is not Genre.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=4 and i=0
+
+
+You are an artist from the 19th century. Create a painting of a Portrait that is not a Historical Scene, not a Landscape, and not Genre, and does not have realistic and detailed portrayals of people or objects.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=5 and i=0
+
+
+You are an artist from the 19th century. Create a painting that evokes a sense of peace or tranquility. The primary subject of the painting is not a Historical Scene, the primary subject of the painting is not a Landscape, the primary subject of the painting is not Genre, the primary subject of the painting is not a Portrait. The painting does not include a sky, the painting does not include plants or flowers.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=6 and i=0
+
+
+You are an artist from the 19th century. Create a painting that does not depict a historical scene, does not depict a landscape, does not depict a genre scene, does not depict a portrait, does not include a sky, does not include plants or flowers, and does not evoke a sense of peace or tranquility.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=7 and i=0
+
+
+You are an artist from the 19th century. Create a painting that includes plants or flowers, ensuring the primary subject is not a historical scene, not a landscape, not genre, and not a portrait. The painting should not include a sky and should not evoke a sense of peace or tranquility.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=8 and i=0
+
+
+You are an artist from the 19th century. Create a painting that includes plants or flowers and evokes a sense of peace or tranquility. The primary subject of the painting is not a Historical Scene, not a Landscape, not Genre, and not a Portrait. The painting does not include a sky.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=9 and i=0
+
+You are an artist from the 19th century. Create a painting that includes a sky and plants or flowers. The primary subject of the painting is not a Historical Scene, the primary subject of the painting is not a Landscape, the primary subject of the painting is not Genre, the primary subject of the painting is not a Portrait, and the painting does not feature loose, quick brush strokes.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=10 and i=0
+
+
+You are an artist from the 19th century. Create a painting that includes a sky, and the primary subject of the painting is not a Historical Scene, the primary subject of the painting is not a Landscape, the primary subject of the painting is not Genre, the primary subject of the painting is not a Portrait, the painting does not feature loose, quick brush strokes, and the painting does not include plants or flowers.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=11 and i=0
+
+
+You are an artist from the 19th century. Create a painting that includes a sky, features loose, quick brush strokes, and evokes a sense of peace or tranquility. The primary subject of the painting is neither a Historical Scene, nor a Landscape, nor Genre, nor a Portrait. The painting does not include plants or flowers.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=12 and i=0
+
+You are an artist from the 19th century. Create a painting that includes a sky and features loose, quick brush strokes. The primary subject of the painting is not a Historical Scene, not a Landscape, not Genre, and not a Portrait. The painting does not include plants or flowers, and the painting does not evoke a sense of peace or tranquility.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=13 and i=0
+
+You are an artist from the 19th century. Create a painting that includes a sky, features loose, quick brush strokes, and includes plants or flowers. The primary subject of the painting is not a Historical Scene, the primary subject of the painting is not a Landscape, the primary subject of the painting is not Genre, the primary subject of the painting is not a Portrait, and the painting does not evoke a sense of peace or tranquility.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=14 and i=0
+
+
+You are an artist from the 19th century. Create a painting that includes a sky, features loose, quick brush strokes, includes plants or flowers, and evokes a sense of peace or tranquility. The primary subject of the painting is not a Historical Scene, the primary subject of the painting is not a Landscape, the primary subject of the painting is not Genre, the primary subject of the painting is not a Portrait, and the painting does not use a strong, directional light source.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=15 and i=0
+
+
+You are an artist from the 19th century. Create a painting that includes a sky, features loose, quick brush strokes, includes plants or flowers, evokes a sense of peace or tranquility, uses a strong, directional light source, and utilizes a predominantly warm color palette. The primary subject of the painting is not a Historical Scene, the primary subject of the painting is not a Landscape, the primary subject of the painting is not Genre, and the primary subject of the painting is not a Portrait.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=16 and i=0
+
+
+You are an artist from the 19th century. Create a painting that includes a sky, features loose, quick brush strokes, includes plants or flowers, evokes a sense of peace or tranquility, and uses a strong, directional light source. The primary subject of the painting is not a Historical Scene, not a Landscape, not Genre, and not a Portrait. The painting does not utilize a predominantly warm color palette.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
