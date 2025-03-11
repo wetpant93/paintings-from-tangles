@@ -1,0 +1,91 @@
+Below are listed the questions, as orded by the (O1) order function.
+
+1. The artist used a palette knife.
+2. The primary subject of the painting is Abstract.
+3. The painting is made using watercolors.
+4. The canvas is exceptionally large or small compared to typical works of its time.
+5. The painting employs a pointillist technique, with small dots of color.
+6. The painting employs mixed media.
+7. The subjects of the painting are lacking sharp outlines.
+8. The primary subject of the painting is Still Life.
+9. The primary subject of the painting is an Animal.
+10. The painting depicts a winter scene.
+11. The painting evokes a sense of humor or irony.
+12. The painting features a symmetrical composition.
+13. The painting's central theme is love or romance.
+14. Signs of tempera or fresco techniques are present.
+15. The painting depicts a famous historical event.
+16. The subjects of the painting are blurred.
+17. The painting includes a foreground, middle ground, and background.
+18. The primary subject of the painting is Mythology.
+19. The painting reflects the technological advancements of the 19th century.
+20. The painting reflects the impact of colonialism or imperialism.
+21. The painting portrays a religious theme.
+22. The painting incorporates elements of fantasy.
+23. The painting features a dramatic sky with storm clouds.
+24. The painting evokes a sense of anger or fear.
+25. The painting portrays a nighttime scene.
+26. The painting has a predominantly blue color palette.
+27. The painting uses oil on canvas.
+28. The painting has a diagonal composition leading to a focal point.
+29. The painting features a strong use of pattern and texture.
+30. The painting evokes a sense of joy or happiness.
+31. The painting uses a visible brushstroke.
+32. There is a strong use of negative space in the painting.
+33. There is an emphasis on light and its changing qualities.
+34. The painting contains a depiction of a famous landmark.
+35. The painting evokes a sense of eroticism or sensuality.
+36. The painting challenges traditional gender roles.
+37. The painting is part of the Neoclassicism movement.
+38. The painting evokes a sense of nostalgia or longing.
+39. There are elements of visionary or fantastical scenery.
+40. The painting features a man as the primary subject.
+41. The painting exhibits a strong sense of linear perspective.
+42. The painting includes figures.
+43. The painting is part of the Impressionist movement.
+44. The painting employs a flat, decorative style, with little emphasis on depth.
+45. The painting shows a moment of action.
+46. The artist's work was influenced by Japanese art.
+47. The painting uses a wide range of colors.
+48. The painting predominantly uses earth tones.
+49. The painting employs a predominantly cool color palette.
+50. The artist was influenced by the Barbizon School.
+51. The primary subject of the painting is a Historical Scene.
+52. The painting exhibits a sense of atmospheric perspective, with distant objects appearing hazy.
+53. The painting reflects the social and political climate of the time.
+54. The painting contains a lot of green foliage.
+55. The painting features a woman as the primary subject.
+56. The painting includes animals.
+57. The colors in the painting are vibrant and contrasting.
+58. The artist used a technique known as glazing.
+59. The primary subject of the painting is a Portrait.
+60. The painting includes water.
+61. The primary subject of the painting is a Landscape.
+62. The painting uses a smooth, blended technique.
+63. The painting evokes a sense of mystery or intrigue.
+64. The painting comments on class or economic inequality.
+65. The painting uses a strong sense of perspective.
+66. The painting utilizes a significant amount of symbolism.
+67. The primary subject of the painting is Genre.
+68. The painting uses a limited color palette.
+69. The painting includes a depiction of water.
+70. The painting includes a significant amount of red.
+71. There is a use of impasto.
+72. The painting utilizes a predominantly warm color palette.
+73. The painting evokes a sense of sadness or melancholy.
+74. The painting is part of the Romanticism movement.
+75. The painting has realistic and detailed portrayals of people or objects.
+76. The painting includes a horizon line.
+77. The painting exhibits the use of dramatic lighting contrasts.
+78. The painting depicts a scene from rural life.
+79. The painting evokes a sense of alienation or despair.
+80. The painting includes a sky.
+81. The painting features loose, quick brush strokes.
+82. The painting evokes a sense of peace or tranquility.
+83. The painting includes architecture.
+84. The painting uses a strong, directional light source.
+85. There are prominent lines and detailed contouring.
+86. The painting focuses on emotional intensity over realism.
+87. The painting shows a scene of everyday life.
+88. The painting evokes a sense of awe or wonder.
+89. The painting includes plants or flowers.

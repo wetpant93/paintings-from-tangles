@@ -1,0 +1,130 @@
+tangle_id=0 and i=0
+
+Create a painting that includes a foreground, middle ground, and background, there is an emphasis on light and its changing qualities, the painting includes architecture, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds, does not have a predominantly blue color palette, does not include animals, does not exhibit a strong sense of linear perspective, is not part of the Impressionist movement, does not contain a depiction of a famous landmark, does not evoke a sense of joy or happiness.
+
+-----------------------
+
+
+tangle_id=1 and i=0
+
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, reflects the technological advancements of the 19th century, has a predominantly blue color palette, does not reflect the impact of colonialism, does not reflect the impact of imperialism.
+
+-----------------------
+
+
+tangle_id=1 and i=1
+
+
+Create a painting that includes a foreground, middle ground, and background, reflects the technological advancements of the 19th century, exhibits a strong sense of linear perspective, does not reflect the impact of colonialism, does not reflect the impact of imperialism.
+
+-----------------------
+
+
+tangle_id=1 and i=2
+
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, reflects the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not evoke a sense of joy or happiness.
+Adhere to these instructions strictly and do not deviate.
+-----------------------
+
+
+tangle_id=2 and i=0
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, features a dramatic sky with storm clouds, has a predominantly blue color palette, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism.
+
+-----------------------
+
+
+tangle_id=2 and i=1
+
+You are an artist from the 19th century.Create a painting that includes a foreground, middle ground, and background, features a dramatic sky with storm clouds, exhibits a strong sense of linear perspective, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism.
+
+-----------------------
+
+
+tangle_id=2 and i=2
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, features a dramatic sky with storm clouds, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not evoke a sense of joy or happiness.
+
+-----------------------
+
+
+tangle_id=3 and i=0
+
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, reflects the impact of colonialism or imperialism.
+
+-----------------------
+
+
+tangle_id=4 and i=0
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, has a predominantly blue color palette, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds.
+
+-----------------------
+
+
+tangle_id=5 and i=0
+
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, includes animals, has an emphasis on light and its changing qualities, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds, does not have a predominantly blue color palette, does not exhibit a strong sense of linear perspective, is not part of the Impressionist movement, does not contain a depiction of a famous landmark, does not evoke a sense of joy or happiness.
+
+-----------------------
+
+
+tangle_id=6 and i=0
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, evokes a sense of joy or happiness, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds, does not have a predominantly blue color palette, does not exhibit a strong sense of linear perspective.
+
+-----------------------
+
+
+tangle_id=7 and i=0
+
+
+Create a painting that includes a foreground, middle ground, and background, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds, does not have a predominantly blue color palette, does not exhibit a strong sense of linear perspective, there is not an emphasis on light and its changing qualities, the painting does not contain a depiction of a famous landmark, does not evoke a sense of joy or happiness.
+
+-----------------------
+
+
+tangle_id=8 and i=0
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, exhibits a strong sense of linear perspective, evokes a sense of joy or happiness, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds, does not have a predominantly blue color palette.
+
+-----------------------
+
+
+tangle_id=8 and i=1
+
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, exhibits a strong sense of linear perspective, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds, does not have a predominantly blue color palette, does not contain a depiction of a famous landmark.
+
+-----------------------
+
+
+tangle_id=9 and i=0
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, contains a depiction of a famous landmark, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds, does not have a predominantly blue color palette, does not evoke a sense of joy or happiness.
+
+-----------------------
+
+
+tangle_id=10 and i=0
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, has an emphasis on light and its changing qualities, is part of the Impressionist movement, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds, does not have a predominantly blue color palette, does not exhibit a strong sense of linear perspective, does not contain a depiction of a famous landmark, does not evoke a sense of joy or happiness.
+
+-----------------------
+
+
+tangle_id=11 and i=0
+
+Create a painting that does not include a foreground middle ground or background, does not reflect the technological advancements of the 19th century, does not feature a dramatic sky with storm clouds, does not exhibit a strong sense of linear perspective, does not contain a depiction of a famous landmark, does not include architecture.
+
+-----------------------
+
+
+tangle_id=12 and i=0
+
+Create a painting that includes a foreground, includes a middle ground, includes a background, there is an emphasis on light and its changing qualities, does not reflect the technological advancements of the 19th century, does not reflect the impact of colonialism or imperialism, does not feature a dramatic sky with storm clouds, does not have a predominantly blue color palette, does not include animals, does not exhibit a strong sense of linear perspective, is not part of the Impressionist movement, does not contain a depiction of a famous landmark, does not evoke a sense of joy or happiness, does not include architecture.
+-----------------------
